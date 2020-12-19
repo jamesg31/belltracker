@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="belltracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/belltracker_jar</output-path>
+    <root id="archive" name="belltracker.jar">
+      <element id="module-output" name="belltracker" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: BellTracker
+version: 1.0.0
+author: jamesg31
+description: Counts bells and adds them to the scoreboard.
+main: me.jamesg31.belltracker.BellTracker
